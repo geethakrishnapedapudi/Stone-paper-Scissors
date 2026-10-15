@@ -46,7 +46,6 @@ The game continues until the player chooses to stop, displaying the final scores
    ```
 
 ## 🎮 How to Play
-
 1. Run the program.
 2. Enter `1` for Rock, `2` for Paper, or `3` for Scissors.
 3. The computer will randomly choose its move.
